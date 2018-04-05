@@ -1,0 +1,26 @@
+* {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+    font-color:red;
+    font-family: Ubuntu, sans-serif;
+    font-weight: 400;
+    color:$text_color;
+    margin: 0;
+    padding: 0;
+}
+#content{
+    @include outer-container;
+}
+
+h2{
+    font-weight: 700;
+    margin:10px 0 20px 0;
+    padding: 0;
+    font-size: 24px;
+    color: $gdi_maroon;
+
+}

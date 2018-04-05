@@ -1,0 +1,60 @@
+.panel {
+    height: 1600px;
+    margin: 0 0 200px;
+    padding: 0;
+    border: 0;
+    border-top: 4px solid $gdi_maroon;
+    @include clearfix;
+    p.intro {
+        line-height: 22px;
+        width: 75%;
+        padding: 0;
+        margin: 30px 0 50px;
+        font-family: Arial, sans-serif;
+    }
+    p.intro_panel_2 {
+        line-height: 22px;
+        width: 75%;
+        padding: 0;
+        margin: 30px 0 10px;
+        font-family: Arial, sans-serif;
+    }
+}
+.p_canvas {
+    padding: 20px 0 0;
+}
+.p_canvas_absolute {
+    margin: 0;
+    padding: 0;
+    z-index: 0;
+}
+.canvas_block {
+    position: relative;
+}
+.sorting {
+    border-top: 1px solid $gdi_maroon;
+    padding: 15px 0 0;
+    margin: 0 0 20px;
+    @include clearfix;
+}
+.sorting_absolute {
+    border-top: 1px solid $gdi_maroon;
+    padding: 15px 0 0;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    @include clearfix;
+}
+#panel_02_filters {
+    position: absolute;
+    z-index: 11;
+    width: 900px;
+    top: 40px;
+    left: 0;
+    border-top: 1px solid $gdi_maroon;
+}
+#panel_02_canvas {
+    position: absolute;
+}

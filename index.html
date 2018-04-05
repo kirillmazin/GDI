@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Geena Davis Institute</title>
+    <meta name="viewport" content="width=device-width">
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
+    <script>
+        WebFont.load({
+            google: {
+                families: ['Ubuntu:400,700,900']
+            }
+        });
+    </script>
+    <script src="js/libs/raphael.js"></script>
+    <script data-main="js/main.js" src="js/libs/require.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+    <div id="content">
+        <h1>Geena Davis Institute</h1>
+
+
+
+
+        <div id="panels">
+
+
+            <!-- Key Findings -->
+
+
+            <div id="panel_01" class="panel" style="height:1200px">
+                <h2>Key Findings</h2>
+                <p class="intro">Female characters are vastly underrepresented in prominent movie roles, and even when they are included, male characters often receive more screen time and more speaking time. This means that simply adding more female characters to films
+                    isn&rsquo;t enough. To truly address gender bias, filmmakers need to ensure that female characters receive as much screen time and speaking time as male characters.</p>
+                <!-- location for the dynamically generated sorting filters -->
+                <div class="sorting" id="panel_01_filters"></div>
+                <!-- canvas for the infographic -->
+                <div class="p_canvas" id="panel_01_canvas"></div>
+            </div>
+
+
+
+
+            <div id="panel_02" class="panel" style="height:500px;">
+                <h2>Revenue: Gender Balance Brings In the Bucks</h2>
+                <p class="intro_panel_2">Gender balance in casting makes good money sense for the top grossing films. Films with female leads earn more money than films with male leads, and casts that prominently feature both men and women do even better at the box office.</p>
+
+
+
+                <!-- canvas for the infographic -->
+
+                <div class="p_canvas" id="panel_02_canvas"></div>
+
+
+
+                <div class="canvas_block">
+                    <!-- location for the dynamically generated sorting filters -->
+                    <div class="sorting" id="panel_02_filters"></div>
+                </div>
+
+            </div>
+
+            <div id="panel_03" class="panel" style="height:900px;">
+                <h2>Gender representation by lead type</h2>
+                <p class="intro">Men are present in films led by women, but women are mostly missing in films led by men. In films with female leads, male characters appear and speak about as often as female characters, but in films with male leads, female characters
+                    are rarely seen or heard.
+                </p>
+                <!-- location for the dynamically generated sorting filters -->
+
+                <div class="canvas_block">
+                    <!-- location for the dynamically generated sorting filters -->
+                    <div class="sorting" id="panel_03_filters"></div>
+                    <!-- canvas for the infographic -->
+                    <div class="p_canvas_absolute" id="panel_03_canvas"></div>
+
+
+                </div>
+
+            </div>
+
+            <div id="panel_04" class="panel" style="height:500px;">
+                <h2>Women's representation in action films</h2>
+
+                <p class="intro">Women are particularly underrepresented in action and adventure films. Male characters appear on screen and speak about four times more often than female characters in this male-dominated film genre.</p>
+
+
+                <div class="canvas_block">
+
+                    <!-- canvas for the infographic -->
+                    <div class="p_canvas_absolute" id="panel_04_canvas"> </div>
+
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+
+
+
+
+    </div>
+</body>
+
+
+</html>

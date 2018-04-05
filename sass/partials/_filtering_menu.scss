@@ -1,0 +1,106 @@
+// regular menu root element
+.filtering_menu_group {
+    @include clearfix;
+    position: relative;
+    float: left;
+    margin: 0 40px 0 0;
+    .large {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .small {
+        font-size: 16px;
+    }
+}
+// drop down menu root element variant
+.drop_down_group {
+    margin: 0 20px 0 0;
+}
+.drop_down_label {
+    border: 0 solid blue;
+}
+.filtering_menu_drop_down_elements {
+    position: absolute;
+    z-index: 10;
+}
+.selected {
+    background-color: $gdi_maroon;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 8px 0 0;
+    padding: 3px 6px;
+    cursor: pointer;
+}
+.filtering_menu_label {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+    padding: 2px 10px 8px 0;
+}
+.filtering_menu_drop_down {
+    top: 25px;
+    left: 50px;
+    z-index: 10;
+    padding: 10px;
+    width: 200px;
+    background-color: #f3f3f3;
+    color: $filter-color;
+    p {
+        margin: 0 0 2px;
+        padding: 0;
+        cursor: pointer;
+    }
+    a {
+        text-decoration: none;
+        display: inline-block;
+        color: $filter-color;
+        margin: 0;
+        padding: 3px 6px;
+        cursor: pointer;
+        transition: color 0.3s;
+    }
+    a:hover {
+        color: #666666;
+        cursor: pointer;
+    }
+    a.selected {
+        border: 1px solid $gdi_maroon;
+        background-color: transparent;
+        cursor: pointer;
+        color: $gdi_maroon;
+        margin: 5px 0 !important;
+    }
+    a.selected:hover {
+        color: $gdi_maroon;
+    }
+}
+.filtering_menu {
+    float: left;
+    color: $filter-color;
+    @include clearfix;
+    p {
+        margin: 0 0 2px;
+        padding: 0;
+        cursor: pointer;
+    }
+    a {
+        text-decoration: none;
+        display: inline-block;
+        color: $filter-color;
+        margin: 0;
+        padding: 3px 5px;
+        cursor: pointer;
+        transition: color 0.3s;
+    }
+    a:hover {
+        color: #666666;
+        cursor: pointer;
+    }
+    a.selected {
+        color: #fff;
+    }
+    a.selected:hover {
+        color: #fff;
+    }
+}

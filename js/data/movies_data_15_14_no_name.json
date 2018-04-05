@@ -1,0 +1,2504 @@
+[
+  {
+    "male_speaking_time": 19.8,
+    "female_speaking_time": 16.79,
+    "female_on_screen_time": 26.37,
+    "male_on_screen_time": 21.87,
+    "male_and_female_on_screen_time": 6.7,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Female Lead",
+    "gross_revenue": 43000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 26.13,
+    "female_speaking_time": 16.26,
+    "female_on_screen_time": 17.8,
+    "male_on_screen_time": 39.11,
+    "male_and_female_on_screen_time": 6.45,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 21000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 26.67,
+    "female_speaking_time": 9.37,
+    "female_on_screen_time": 6.38,
+    "male_on_screen_time": 33.91,
+    "male_and_female_on_screen_time": 1.3,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "Male Lead",
+    "gross_revenue": 180000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 26.15,
+    "female_speaking_time": 7.59,
+    "female_on_screen_time": 9.35,
+    "male_on_screen_time": 29.8,
+    "male_and_female_on_screen_time": 3.1,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 459000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 58,
+    "female_speaking_time": 17.16,
+    "female_on_screen_time": 5.63,
+    "male_on_screen_time": 50.5,
+    "male_and_female_on_screen_time": 3.16,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 70000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 38.14,
+    "female_speaking_time": 10.32,
+    "female_on_screen_time": 6.36,
+    "male_on_screen_time": 50.07,
+    "male_and_female_on_screen_time": 1.14,
+    "ratings": "R",
+    "genre": "Crime",
+    "lead_type": "Male Lead",
+    "gross_revenue": 63000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 37.71,
+    "female_speaking_time": 14.53,
+    "female_on_screen_time": 12.61,
+    "male_on_screen_time": 42.53,
+    "male_and_female_on_screen_time": 7.1,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 22000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 17.42,
+    "female_speaking_time": 18.19,
+    "female_on_screen_time": 23.22,
+    "male_on_screen_time": 23.58,
+    "male_and_female_on_screen_time": 3.1,
+    "ratings": "R",
+    "genre": "Thriller",
+    "lead_type": "Female Lead",
+    "gross_revenue": 36000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 43.17,
+    "female_speaking_time": 7.53,
+    "female_on_screen_time": 30.89,
+    "male_on_screen_time": 29.32,
+    "male_and_female_on_screen_time": 11.34,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 72000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 17.79,
+    "female_speaking_time": 26.51,
+    "female_on_screen_time": 4.31,
+    "male_on_screen_time": 26.55,
+    "male_and_female_on_screen_time": 0.8,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Female Lead",
+    "gross_revenue": 38000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 22.97,
+    "female_speaking_time": 12.55,
+    "female_on_screen_time": 23.6,
+    "male_on_screen_time": 22.57,
+    "male_and_female_on_screen_time": 4.19,
+    "ratings": "R",
+    "genre": "Science Fiction",
+    "lead_type": "Male Lead",
+    "gross_revenue": 32000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 12.46,
+    "female_speaking_time": 22.09,
+    "female_on_screen_time": 8.19,
+    "male_on_screen_time": 36.7,
+    "male_and_female_on_screen_time": 1.67,
+    "ratings": "PG",
+    "genre": "Fantasy",
+    "lead_type": "Female Lead",
+    "gross_revenue": 201000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 35.76,
+    "female_speaking_time": 7.9,
+    "female_on_screen_time": 6.47,
+    "male_on_screen_time": 45.43,
+    "male_and_female_on_screen_time": 3.23,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 35000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 56.35,
+    "female_speaking_time": 15.58,
+    "female_on_screen_time": 15.99,
+    "male_on_screen_time": 17.83,
+    "male_and_female_on_screen_time": 4.3,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 110000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 32.91,
+    "female_speaking_time": 15.96,
+    "female_on_screen_time": 15.99,
+    "male_on_screen_time": 17.83,
+    "male_and_female_on_screen_time": 4.3,
+    "ratings": "R",
+    "genre": "Fantasy",
+    "lead_type": "Female Lead",
+    "gross_revenue": 31000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 44.98,
+    "female_speaking_time": 27.16,
+    "female_on_screen_time": 10.43,
+    "male_on_screen_time": 52.68,
+    "male_and_female_on_screen_time": 14.99,
+    "ratings": "PG-13",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 150000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 41.94,
+    "female_speaking_time": 16.66,
+    "female_on_screen_time": 23.82,
+    "male_on_screen_time": 26.21,
+    "male_and_female_on_screen_time": 8.37,
+    "ratings": "PG-13",
+    "genre": "Science Fiction",
+    "lead_type": "Female Lead",
+    "gross_revenue": 130000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 18.26,
+    "female_speaking_time": 38.38,
+    "female_on_screen_time": 48.56,
+    "male_on_screen_time": 19.25,
+    "male_and_female_on_screen_time": 12.38,
+    "ratings": "PG-13",
+    "genre": "Comedy",
+    "lead_type": "Female Lead",
+    "gross_revenue": 34000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 49.81,
+    "female_speaking_time": 18.11,
+    "female_on_screen_time": 7.57,
+    "male_on_screen_time": 54.11,
+    "male_and_female_on_screen_time": 12.02,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 32000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 24.46,
+    "female_speaking_time": 7.98,
+    "female_on_screen_time": 6.82,
+    "male_on_screen_time": 26.33,
+    "male_and_female_on_screen_time": 1.71,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 35000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 22.84,
+    "female_speaking_time": 7.29,
+    "female_on_screen_time": 6.93,
+    "male_on_screen_time": 28.95,
+    "male_and_female_on_screen_time": 0.33,
+    "ratings": "R",
+    "genre": "Science Fiction",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 25000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 25.65,
+    "female_speaking_time": 6.74,
+    "female_on_screen_time": 8.54,
+    "male_on_screen_time": 23.45,
+    "male_and_female_on_screen_time": 3.19,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 56000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 15.4,
+    "female_speaking_time": 16.58,
+    "female_on_screen_time": 25.36,
+    "male_on_screen_time": 24.21,
+    "male_and_female_on_screen_time": 4.38,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 166000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 31.29,
+    "female_speaking_time": 10.33,
+    "female_on_screen_time": 11.91,
+    "male_on_screen_time": 33.73,
+    "male_and_female_on_screen_time": 5.64,
+    "ratings": "R",
+    "genre": "Crime",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 54000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 22.42,
+    "female_speaking_time": 6.82,
+    "female_on_screen_time": 6.95,
+    "male_on_screen_time": 25.86,
+    "male_and_female_on_screen_time": 2.99,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 353000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 20.35,
+    "female_speaking_time": 22.42,
+    "female_on_screen_time": 8.49,
+    "male_on_screen_time": 17.24,
+    "male_and_female_on_screen_time": 2.44,
+    "ratings": "R",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 23000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 40.61,
+    "female_speaking_time": 8.33,
+    "female_on_screen_time": 1.13,
+    "male_on_screen_time": 9.31,
+    "male_and_female_on_screen_time": 0.45,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 90000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 26.34,
+    "female_speaking_time": 13.29,
+    "female_on_screen_time": 12.93,
+    "male_on_screen_time": 38.72,
+    "male_and_female_on_screen_time": 4.55,
+    "ratings": "R",
+    "genre": "Thriller",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 44000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 17.11,
+    "female_speaking_time": 13.77,
+    "female_on_screen_time": 12.32,
+    "male_on_screen_time": 29.31,
+    "male_and_female_on_screen_time": 6.08,
+    "ratings": "PG",
+    "genre": "Fantasy",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 80000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 48,
+    "female_speaking_time": 12.54,
+    "female_on_screen_time": 4.22,
+    "male_on_screen_time": 26.03,
+    "male_and_female_on_screen_time": 1,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 54000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 13.65,
+    "female_speaking_time": 6.22,
+    "female_on_screen_time": 10.12,
+    "male_on_screen_time": 28.92,
+    "male_and_female_on_screen_time": 2.8,
+    "ratings": "R",
+    "genre": "Action/Adventure",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 22000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 13.88,
+    "female_speaking_time": 37.93,
+    "female_on_screen_time": 44.52,
+    "male_on_screen_time": 16.36,
+    "male_and_female_on_screen_time": 5.45,
+    "ratings": "PG-13",
+    "genre": "Comedy",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 35000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 43.46,
+    "female_speaking_time": 33.8,
+    "female_on_screen_time": 8.24,
+    "male_on_screen_time": 59.2,
+    "male_and_female_on_screen_time": 10.15,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 132000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 22.57,
+    "female_speaking_time": 11.36,
+    "female_on_screen_time": 27.99,
+    "male_on_screen_time": 16.97,
+    "male_and_female_on_screen_time": 5.15,
+    "ratings": "PG-13",
+    "genre": "Fantasy",
+    "lead_type": "Female Lead",
+    "gross_revenue": 282000000,
+    "year": 2015
+  },
+  {
+    "name": "IN THE HEART OF THE SEA",
+    "male_speaking_time": 38.23,
+    "female_speaking_time": 4.65,
+    "female_on_screen_time": 3.46,
+    "male_on_screen_time": 23.35,
+    "male_and_female_on_screen_time": 0.51,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "Male Lead",
+    "gross_revenue": 25000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 12.54,
+    "female_speaking_time": 12.47,
+    "female_on_screen_time": 20.42,
+    "male_on_screen_time": 17.51,
+    "male_and_female_on_screen_time": 1.89,
+    "ratings": "PG-13",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 52000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 27.53,
+    "female_speaking_time": 27.34,
+    "female_on_screen_time": 29.63,
+    "male_on_screen_time": 34.62,
+    "male_and_female_on_screen_time": 10.15,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 76000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 31.97,
+    "female_speaking_time": 37.75,
+    "female_on_screen_time": 36.51,
+    "male_on_screen_time": 17.86,
+    "male_and_female_on_screen_time": 10.84,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Female Lead",
+    "gross_revenue": 56000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 17.09,
+    "female_speaking_time": 12.31,
+    "female_on_screen_time": 19.57,
+    "male_on_screen_time": 26.38,
+    "male_and_female_on_screen_time": 3.89,
+    "ratings": "PG-13",
+    "genre": "Science Fiction",
+    "lead_type": "Female Lead",
+    "gross_revenue": 47000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 14.45,
+    "female_speaking_time": 10.12,
+    "female_on_screen_time": 15.42,
+    "male_on_screen_time": 22.84,
+    "male_and_female_on_screen_time": 7,
+    "ratings": "PG-13",
+    "genre": "Science Fiction",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 652000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 28.4,
+    "female_speaking_time": 5.73,
+    "female_on_screen_time": 5.42,
+    "male_on_screen_time": 38.21,
+    "male_and_female_on_screen_time": 3.49,
+    "ratings": "R",
+    "genre": "Action/Adventure",
+    "lead_type": "Male Lead",
+    "gross_revenue": 128000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 15.18,
+    "female_speaking_time": 13.91,
+    "female_on_screen_time": 25.47,
+    "male_on_screen_time": 16.19,
+    "male_and_female_on_screen_time": 6.4,
+    "ratings": "PG-13",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 43000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 18.7,
+    "female_speaking_time": 7.06,
+    "female_on_screen_time": 9.51,
+    "male_on_screen_time": 25.7,
+    "male_and_female_on_screen_time": 1.82,
+    "ratings": "PG-13",
+    "genre": "Fantasy",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 27000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 47.43,
+    "female_speaking_time": 15.02,
+    "female_on_screen_time": 15.94,
+    "male_on_screen_time": 14.72,
+    "male_and_female_on_screen_time": 1.99,
+    "ratings": "PG-13",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 26000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 15.58,
+    "female_speaking_time": 13.34,
+    "female_on_screen_time": 23.51,
+    "male_on_screen_time": 24.02,
+    "male_and_female_on_screen_time": 7.56,
+    "ratings": "PG-13",
+    "genre": "Romance",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 37000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 28.23,
+    "female_speaking_time": 22.12,
+    "female_on_screen_time": 28.65,
+    "male_on_screen_time": 28.35,
+    "male_and_female_on_screen_time": 18.63,
+    "ratings": "PG-13",
+    "genre": "Comedy",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 26000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 10.7,
+    "female_speaking_time": 6.46,
+    "female_on_screen_time": 6.07,
+    "male_on_screen_time": 19.03,
+    "male_and_female_on_screen_time": 4.36,
+    "ratings": "R",
+    "genre": "Science Fiction",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 154000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 31.99,
+    "female_speaking_time": 13.37,
+    "female_on_screen_time": 11.11,
+    "male_on_screen_time": 28.58,
+    "male_and_female_on_screen_time": 5.14,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 66000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 43.9,
+    "female_speaking_time": 10.76,
+    "female_on_screen_time": 7.33,
+    "male_on_screen_time": 32.23,
+    "male_and_female_on_screen_time": 2.28,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "Male Lead",
+    "gross_revenue": 45000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 25.26,
+    "female_speaking_time": 9.09,
+    "female_on_screen_time": 5.22,
+    "male_on_screen_time": 28.24,
+    "male_and_female_on_screen_time": 2.88,
+    "ratings": "PG-13",
+    "genre": "Science Fiction",
+    "lead_type": "Male Lead",
+    "gross_revenue": 228000000,
+    "year": 2015
+  },
+  {
+    "name": "MAX",
+    "male_speaking_time": 26.46,
+    "female_speaking_time": 12.79,
+    "female_on_screen_time": 13.71,
+    "male_on_screen_time": 26.57,
+    "male_and_female_on_screen_time": 8.52,
+    "ratings": "PG",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 43000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 15.7,
+    "female_speaking_time": 5.38,
+    "female_on_screen_time": 8.59,
+    "male_on_screen_time": 28.18,
+    "male_and_female_on_screen_time": 5.47,
+    "ratings": "PG-13",
+    "genre": "Science Fiction",
+    "lead_type": "Male Lead",
+    "gross_revenue": 82000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 45.58,
+    "female_speaking_time": 13.69,
+    "female_on_screen_time": 6.98,
+    "male_on_screen_time": 37.95,
+    "male_and_female_on_screen_time": 7.25,
+    "ratings": "PG",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 44000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 24.07,
+    "female_speaking_time": 6.27,
+    "female_on_screen_time": 8.83,
+    "male_on_screen_time": 37.15,
+    "male_and_female_on_screen_time": 2.17,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "Male Lead",
+    "gross_revenue": 195000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 26.12,
+    "female_speaking_time": 9.61,
+    "female_on_screen_time": 12.85,
+    "male_on_screen_time": 29.82,
+    "male_and_female_on_screen_time": 3.49,
+    "ratings": "PG",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 18000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 45.15,
+    "female_speaking_time": 16.91,
+    "female_on_screen_time": 11.68,
+    "male_on_screen_time": 40.72,
+    "male_and_female_on_screen_time": 5.84,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 43000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 14.2,
+    "female_speaking_time": 6.41,
+    "female_on_screen_time": 11.43,
+    "male_on_screen_time": 24.37,
+    "male_and_female_on_screen_time": 4.9,
+    "ratings": "R",
+    "genre": "Action/Adventure",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 27000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 34.6,
+    "female_speaking_time": 24.65,
+    "female_on_screen_time": 10.4,
+    "male_on_screen_time": 14.19,
+    "male_and_female_on_screen_time": 2.94,
+    "ratings": "PG",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 76000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 15.87,
+    "female_speaking_time": 12.59,
+    "female_on_screen_time": 15.94,
+    "male_on_screen_time": 18.72,
+    "male_and_female_on_screen_time": 2.76,
+    "ratings": "PG",
+    "genre": "Fantasy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 35000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 47.59,
+    "female_speaking_time": 17.53,
+    "female_on_screen_time": 14.05,
+    "male_on_screen_time": 34.8,
+    "male_and_female_on_screen_time": 6.39,
+    "ratings": "PG-13",
+    "genre": "Mystery",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 32000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 21.27,
+    "female_speaking_time": 13.88,
+    "female_on_screen_time": 13.6,
+    "male_on_screen_time": 8.86,
+    "male_and_female_on_screen_time": 1.22,
+    "ratings": "R",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 18000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 48.4,
+    "female_speaking_time": 11.48,
+    "female_on_screen_time": 10.94,
+    "male_on_screen_time": 44.2,
+    "male_and_female_on_screen_time": 9.06,
+    "ratings": "PG",
+    "genre": "Comedy",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 71000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 17.39,
+    "female_speaking_time": 10.92,
+    "female_on_screen_time": 26.2,
+    "male_on_screen_time": 23.9,
+    "male_and_female_on_screen_time": 3.49,
+    "ratings": "PG-13",
+    "genre": "Thriller",
+    "lead_type": "Male Lead",
+    "gross_revenue": 57000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 20.1,
+    "female_speaking_time": 32.62,
+    "female_on_screen_time": 39.01,
+    "male_on_screen_time": 18.49,
+    "male_and_female_on_screen_time": 12.38,
+    "ratings": "PG-13",
+    "genre": "Comedy",
+    "lead_type": "Female Lead",
+    "gross_revenue": 184000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 29.87,
+    "female_speaking_time": 13.92,
+    "female_on_screen_time": 10.85,
+    "male_on_screen_time": 36.13,
+    "male_and_female_on_screen_time": 11.92,
+    "ratings": "PG-13",
+    "genre": "Fantasy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 79000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 19.62,
+    "female_speaking_time": 3.19,
+    "female_on_screen_time": 3.53,
+    "male_on_screen_time": 30.79,
+    "male_and_female_on_screen_time": 1.13,
+    "ratings": "PG-13",
+    "genre": "Thriller",
+    "lead_type": "Male Lead",
+    "gross_revenue": 29000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 10.16,
+    "female_speaking_time": 14.21,
+    "female_on_screen_time": 22.13,
+    "male_on_screen_time": 12.6,
+    "male_and_female_on_screen_time": 7.47,
+    "ratings": "PG-13",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 47000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 25.51,
+    "female_speaking_time": 21.96,
+    "female_on_screen_time": 11.1,
+    "male_on_screen_time": 26.09,
+    "male_and_female_on_screen_time": 5.39,
+    "ratings": "PG-13",
+    "genre": "Fantasy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 22000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 45.47,
+    "female_speaking_time": 5.68,
+    "female_on_screen_time": 1.97,
+    "male_on_screen_time": 13.31,
+    "male_and_female_on_screen_time": 0.35,
+    "ratings": "R",
+    "genre": "Thriller",
+    "lead_type": "Male Lead",
+    "gross_revenue": 184000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 22.25,
+    "female_speaking_time": 20.43,
+    "female_on_screen_time": 35.22,
+    "male_on_screen_time": 19.64,
+    "male_and_female_on_screen_time": 16.22,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Female Lead",
+    "gross_revenue": 27000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 37.83,
+    "female_speaking_time": 4.35,
+    "female_on_screen_time": 2.09,
+    "male_on_screen_time": 33.36,
+    "male_and_female_on_screen_time": 1.49,
+    "ratings": "R",
+    "genre": "Mystery",
+    "lead_type": "Male Lead",
+    "gross_revenue": 26000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 13.99,
+    "female_speaking_time": 8.06,
+    "female_on_screen_time": 14.69,
+    "male_on_screen_time": 20.37,
+    "male_and_female_on_screen_time": 6.51,
+    "ratings": "PG-13",
+    "genre": "Action/Adventure",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 155000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 26.67,
+    "female_speaking_time": 21.34,
+    "female_on_screen_time": 18.06,
+    "male_on_screen_time": 29.08,
+    "male_and_female_on_screen_time": 9.08,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 33000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 18.63,
+    "female_speaking_time": 11.54,
+    "female_on_screen_time": 16.32,
+    "male_on_screen_time": 34.66,
+    "male_and_female_on_screen_time": 5.5,
+    "ratings": "PG-13",
+    "genre": "Mystery",
+    "lead_type": "Male Lead",
+    "gross_revenue": 20000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 35.59,
+    "female_speaking_time": 10.54,
+    "female_on_screen_time": 10.29,
+    "male_on_screen_time": 24.15,
+    "male_and_female_on_screen_time": 1.96,
+    "ratings": "PG-13",
+    "genre": "Fantasy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 18000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 18.96,
+    "female_speaking_time": 4.02,
+    "female_on_screen_time": 5.4,
+    "male_on_screen_time": 33.05,
+    "male_and_female_on_screen_time": 1.68,
+    "ratings": "R",
+    "genre": "Mystery",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 47000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 41.36,
+    "female_speaking_time": 16.24,
+    "female_on_screen_time": 15.4,
+    "male_on_screen_time": 19.31,
+    "male_and_female_on_screen_time": 1.75,
+    "ratings": "R",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 28000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 18.11,
+    "female_speaking_time": 62.81,
+    "female_on_screen_time": 48.35,
+    "male_on_screen_time": 12.83,
+    "male_and_female_on_screen_time": 13.36,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 87000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 28.87,
+    "female_speaking_time": 10.03,
+    "female_on_screen_time": 5.46,
+    "male_on_screen_time": 30.9,
+    "male_and_female_on_screen_time": 3.17,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 52000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 49.78,
+    "female_speaking_time": 8.47,
+    "female_on_screen_time": 7.55,
+    "male_on_screen_time": 29.16,
+    "male_and_female_on_screen_time": 2.66,
+    "ratings": "PG-13",
+    "genre": "Thriller",
+    "lead_type": "Male Lead",
+    "gross_revenue": 200000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 65.97,
+    "female_speaking_time": 14.48,
+    "female_on_screen_time": 4.84,
+    "male_on_screen_time": 58.03,
+    "male_and_female_on_screen_time": 6.08,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 45000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 20.5,
+    "female_speaking_time": 33.29,
+    "female_on_screen_time": 38.32,
+    "male_on_screen_time": 18.19,
+    "male_and_female_on_screen_time": 11.15,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Female Lead",
+    "gross_revenue": 111000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 35.69,
+    "female_speaking_time": 11.98,
+    "female_on_screen_time": 5.28,
+    "male_on_screen_time": 25.62,
+    "male_and_female_on_screen_time": 1.37,
+    "ratings": "PG-13",
+    "genre": "Science Fiction",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 937000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 42.93,
+    "female_speaking_time": 21.48,
+    "female_on_screen_time": 12.91,
+    "male_on_screen_time": 45.14,
+    "male_and_female_on_screen_time": 5.59,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 18000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 27.95,
+    "female_speaking_time": 35.57,
+    "female_on_screen_time": 41.84,
+    "male_on_screen_time": 16.56,
+    "male_and_female_on_screen_time": 8.66,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "Female Lead",
+    "gross_revenue": 19000000,
+    "year": 2015
+  },
+  {
+    "name": "STRAIGHT OUTTA COMPTON",
+    "male_speaking_time": 38.32,
+    "female_speaking_time": 12.68,
+    "female_on_screen_time": 4.38,
+    "male_on_screen_time": 40.24,
+    "male_and_female_on_screen_time": 2.08,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 161000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 17.55,
+    "female_speaking_time": 7.85,
+    "female_on_screen_time": 16.5,
+    "male_on_screen_time": 23.83,
+    "male_and_female_on_screen_time": 3.25,
+    "ratings": "PG-13",
+    "genre": "Thriller",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 56000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 20.78,
+    "female_speaking_time": 5.42,
+    "female_on_screen_time": 5.57,
+    "male_on_screen_time": 37.91,
+    "male_and_female_on_screen_time": 0.81,
+    "ratings": "PG-13",
+    "genre": "Thriller",
+    "lead_type": "Male Lead",
+    "gross_revenue": 89000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 34.82,
+    "female_speaking_time": 20.45,
+    "female_on_screen_time": 14.69,
+    "male_on_screen_time": 26.49,
+    "male_and_female_on_screen_time": 8.08,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 81000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 33.23,
+    "female_speaking_time": 9.98,
+    "female_on_screen_time": 7.23,
+    "male_on_screen_time": 28.79,
+    "male_and_female_on_screen_time": 2.96,
+    "ratings": "PG-13",
+    "genre": "Science Fiction",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 90000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 13.43,
+    "female_speaking_time": 14.85,
+    "female_on_screen_time": 17.98,
+    "male_on_screen_time": 25.31,
+    "male_and_female_on_screen_time": 5.09,
+    "ratings": "PG",
+    "genre": "Fantasy",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 93000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 30.12,
+    "female_speaking_time": 33.32,
+    "female_on_screen_time": 21.24,
+    "male_on_screen_time": 41.16,
+    "male_and_female_on_screen_time": 9.97,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Female Lead",
+    "gross_revenue": 110000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 28.95,
+    "female_speaking_time": 47.44,
+    "female_on_screen_time": 38.16,
+    "male_on_screen_time": 4.71,
+    "male_and_female_on_screen_time": 24.38,
+    "ratings": "R",
+    "genre": "Mystery",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 33000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 28.61,
+    "female_speaking_time": 22.91,
+    "female_on_screen_time": 14.34,
+    "male_on_screen_time": 32.29,
+    "male_and_female_on_screen_time": 24.64,
+    "ratings": "R",
+    "genre": "Action/Adventure",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 59000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 7.14,
+    "female_speaking_time": 30.03,
+    "female_on_screen_time": 33.83,
+    "male_on_screen_time": 10.77,
+    "male_and_female_on_screen_time": 2.77,
+    "ratings": "PG-13",
+    "genre": "Horror",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 65000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 33.71,
+    "female_speaking_time": 11.33,
+    "female_on_screen_time": 6.95,
+    "male_on_screen_time": 33.16,
+    "male_and_female_on_screen_time": 2.37,
+    "ratings": "R",
+    "genre": "Drama",
+    "lead_type": "Male Lead",
+    "gross_revenue": 30000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 24.12,
+    "female_speaking_time": 26.09,
+    "female_on_screen_time": 12.81,
+    "male_on_screen_time": 46.06,
+    "male_and_female_on_screen_time": 4.14,
+    "ratings": "PG",
+    "genre": "Drama",
+    "lead_type": "Female Lead",
+    "gross_revenue": 68000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 45.68,
+    "female_speaking_time": 32.39,
+    "female_on_screen_time": 9.22,
+    "male_on_screen_time": 48.55,
+    "male_and_female_on_screen_time": 11.69,
+    "ratings": "R",
+    "genre": "Comedy",
+    "lead_type": "Male Lead",
+    "gross_revenue": 64000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 7.9,
+    "female_speaking_time": 10.34,
+    "female_on_screen_time": 18.81,
+    "male_on_screen_time": 13.34,
+    "male_and_female_on_screen_time": 1.65,
+    "ratings": "PG-13",
+    "genre": "Thriller",
+    "lead_type": "Female Lead",
+    "gross_revenue": 27000000,
+    "year": 2015
+  },
+  {
+
+    "male_speaking_time": 25.47,
+    "female_speaking_time": 15.79,
+    "female_on_screen_time": 20.13,
+    "male_on_screen_time": 30.87,
+    "male_and_female_on_screen_time": 15.36,
+    "ratings": "PG-13",
+    "genre": "Drama",
+    "lead_type": "MF Co-Lead",
+    "gross_revenue": 33000000,
+    "year": 2015
+},
+
+{
+
+          "male_speaking_time": 38.08,
+          "female_speaking_time": 15.95,
+          "female_on_screen_time": 6.12,
+          "male_on_screen_time": 53.68,
+          "male_and_female_on_screen_time": 8.43,
+          "ratings": "R",
+          "genre": "Comedy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 192000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 18.15,
+          "female_speaking_time": 11.08,
+          "female_on_screen_time": 12.45,
+          "male_on_screen_time": 37.07,
+          "male_and_female_on_screen_time": 3.53,
+          "ratings": "PG-13",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 31000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 20.24,
+          "female_speaking_time": 10.24,
+          "female_on_screen_time": 12.66,
+          "male_on_screen_time": 26.84,
+          "male_and_female_on_screen_time": 2.86,
+          "ratings": "R",
+          "genre": "Fantasy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 107000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 21.17,
+          "female_speaking_time": 7.64,
+          "female_on_screen_time": 10.88,
+          "male_on_screen_time": 35.99,
+          "male_and_female_on_screen_time": 4.81,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 17000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 24.07,
+          "female_speaking_time": 35.38,
+          "female_on_screen_time": 21.6,
+          "male_on_screen_time": 34.79,
+          "male_and_female_on_screen_time": 6.6,
+          "ratings": "R",
+          "genre": "Comedy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 49000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 12.32,
+          "female_speaking_time": 21.83,
+          "female_on_screen_time": 30.42,
+          "male_on_screen_time": 20.22,
+          "male_and_female_on_screen_time": 2.79,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Female Lead",
+          "gross_revenue": 17000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 16.8,
+          "female_speaking_time": 34.32,
+          "female_on_screen_time": 29.35,
+          "male_on_screen_time": 24.32,
+          "male_and_female_on_screen_time": 13.83,
+          "ratings": "PG",
+          "genre": "Children's",
+          "lead_type": "Male Lead",
+          "gross_revenue": 67000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 44.94,
+          "female_speaking_time": 8.31,
+          "female_on_screen_time": 7.77,
+          "male_on_screen_time": 28.38,
+          "male_and_female_on_screen_time": 3.25,
+          "ratings": "R",
+          "genre": "Action/Adventure",
+          "lead_type": "Male Lead",
+          "gross_revenue": 350000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 21.33,
+          "female_speaking_time": 29.86,
+          "female_on_screen_time": 22.7,
+          "male_on_screen_time": 34.01,
+          "male_and_female_on_screen_time": 7.88,
+          "ratings": "PG-13",
+          "genre": "Romance",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 15000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 35.56,
+          "female_speaking_time": 14.79,
+          "female_on_screen_time": 27.46,
+          "male_on_screen_time": 10.25,
+          "male_and_female_on_screen_time": 6.01,
+          "ratings": "R",
+          "genre": "Horror",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 84000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 17.49,
+          "female_speaking_time": 19.67,
+          "female_on_screen_time": 29.26,
+          "male_on_screen_time": 19.36,
+          "male_and_female_on_screen_time": 11.81,
+          "ratings": "PG",
+          "genre": "Children's",
+          "lead_type": "Female Lead",
+          "gross_revenue": 86000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 23.07,
+          "female_speaking_time": 22.95,
+          "female_on_screen_time": 11.62,
+          "male_on_screen_time": 16.46,
+          "male_and_female_on_screen_time": 3.34,
+          "ratings": "R",
+          "genre": "Horror",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 21000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 26.21,
+          "female_speaking_time": 14.88,
+          "female_on_screen_time": 18.7,
+          "male_on_screen_time": 31.03,
+          "male_and_female_on_screen_time": 8.42,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 16000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 25.71,
+          "female_speaking_time": 13.56,
+          "female_on_screen_time": 21.48,
+          "male_on_screen_time": 31.54,
+          "male_and_female_on_screen_time": 5.76,
+          "ratings": "PG-13",
+          "genre": "Romance",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 27000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 29.79,
+          "female_speaking_time": 25.83,
+          "female_on_screen_time": 26.63,
+          "male_on_screen_time": 25.17,
+          "male_and_female_on_screen_time": 5.82,
+          "ratings": "PG-13",
+          "genre": "Romance",
+          "lead_type": "Female Lead",
+          "gross_revenue":15000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 26.71,
+          "female_speaking_time": 21.3,
+          "female_on_screen_time": 10.9,
+          "male_on_screen_time": 26.71,
+          "male_and_female_on_screen_time": 4.9,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 42000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 22.16,
+          "female_speaking_time": 27.47,
+          "female_on_screen_time": 33.81,
+          "male_on_screen_time": 24.27,
+          "male_and_female_on_screen_time": 12.51,
+          "ratings": "PG-13",
+          "genre": "Romantic Comedy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 46000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 51.59,
+          "female_speaking_time": 35.23,
+          "female_on_screen_time": 20.27,
+          "male_on_screen_time": 35.19,
+          "male_and_female_on_screen_time": 11.66,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 25000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 24.13,
+          "female_speaking_time": 3.2,
+          "female_on_screen_time": 4.71,
+          "male_on_screen_time": 38.79,
+          "male_and_female_on_screen_time": 1.61,
+          "ratings": "PG-13",
+          "genre": "Action/Adventure",
+          "lead_type": "Male Lead",
+          "gross_revenue": 20000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 33.55,
+          "female_speaking_time": 8.74,
+          "female_on_screen_time": 7.15,
+          "male_on_screen_time": 29.95,
+          "male_and_female_on_screen_time": 3.21,
+          "ratings": "PG-13",
+          "genre": "Action/Adventure",
+          "lead_type": "Male Lead",
+          "gross_revenue": 260000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 46.94,
+          "female_speaking_time": 18.2,
+          "female_on_screen_time": 12.44,
+          "male_on_screen_time": 45.21,
+          "male_and_female_on_screen_time": 10.07,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 31000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 39.36,
+          "female_speaking_time": 10.71,
+          "female_on_screen_time": 4.61,
+          "male_on_screen_time": 27.91,
+          "male_and_female_on_screen_time": 0.69,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 31000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 19.65,
+          "female_speaking_time": 15.91,
+          "female_on_screen_time": 13.1,
+          "male_on_screen_time": 11.52,
+          "male_and_female_on_screen_time": 3.51,
+          "ratings": "R",
+          "genre": "Horror",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 16000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 13.32,
+          "female_speaking_time": 10.34,
+          "female_on_screen_time": 25.17,
+          "male_on_screen_time": 26.11,
+          "male_and_female_on_screen_time": 8.4,
+          "ratings": "PG-13",
+          "genre": "Science Fiction",
+          "lead_type": "Female Lead",
+          "gross_revenue": 151000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 41.78,
+          "female_speaking_time": 7.01,
+          "female_on_screen_time": 5.2,
+          "male_on_screen_time": 26.17,
+          "male_and_female_on_screen_time": 2.19,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 56000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 49.72,
+          "female_speaking_time": 7.74,
+          "female_on_screen_time": 8.64,
+          "male_on_screen_time": 58.5,
+          "male_and_female_on_screen_time": 6.25,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 29000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 50.96,
+          "female_speaking_time": 26.76,
+          "female_on_screen_time": 11.46,
+          "male_on_screen_time": 52.86,
+          "male_and_female_on_screen_time": 14.69,
+          "ratings": "PG-13",
+          "genre": "Comedy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 86000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 14.92,
+          "female_speaking_time": 29.41,
+          "female_on_screen_time": 17.33,
+          "male_on_screen_time": 8.91,
+          "male_and_female_on_screen_time": 2.87,
+          "ratings": "PG",
+          "genre": "Children's",
+          "lead_type": "Male Lead",
+          "gross_revenue": 39000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 51.29,
+          "female_speaking_time": 13.85,
+          "female_on_screen_time": 6.32,
+          "male_on_screen_time": 37.7,
+          "male_and_female_on_screen_time": 2.81,
+          "ratings": "PG-13",
+          "genre": "Action/Adventure",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 100000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 27.71,
+          "female_speaking_time": 13.59,
+          "female_on_screen_time": 12.6,
+          "male_on_screen_time": 44.23,
+          "male_and_female_on_screen_time": 7.39,
+          "ratings": "PG-13",
+          "genre": "Romance",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 23000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 55.22,
+          "female_speaking_time": 9.21,
+          "female_on_screen_time": 5.1,
+          "male_on_screen_time": 24.64,
+          "male_and_female_on_screen_time": 1.16,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 101000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 33.85,
+          "female_speaking_time": 5.16,
+          "female_on_screen_time": 6.17,
+          "male_on_screen_time": 25.25,
+          "male_and_female_on_screen_time": 1.22,
+          "ratings": "PG-13",
+          "genre": "Action/Adventure",
+          "lead_type": "Male Lead",
+          "gross_revenue": 65000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 29.04,
+          "female_speaking_time": 1.68,
+          "female_on_screen_time": 1.49,
+          "male_on_screen_time": 44.03,
+          "male_and_female_on_screen_time": 1.31,
+          "ratings": "PG-13",
+          "genre": "Action/Adventure",
+          "lead_type": "Male Lead",
+          "gross_revenue": 39000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 39.47,
+          "female_speaking_time": 28.38,
+          "female_on_screen_time": 30.14,
+          "male_on_screen_time": 32.38,
+          "male_and_female_on_screen_time": 8.34,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 125000000,
+          "year": 2014
+      }, {
+
+          "male_speaking_time": 46.46,
+          "female_speaking_time": 7.71,
+          "female_on_screen_time": 3.32,
+          "male_on_screen_time": 34.15,
+          "male_and_female_on_screen_time": 1.52,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 86000000,
+          "year": 2014
+      }, {
+          "name": "GAMBLER, THE (REMAKE)",
+          "male_speaking_time": 32.5,
+          "female_speaking_time": 9.12,
+          "female_on_screen_time": 8.85,
+          "male_on_screen_time": 41.67,
+          "male_and_female_on_screen_time": 5.16,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 34000000,
+          "year": 2014
+      }, {
+          "name": "GET ON UP",
+          "male_speaking_time": 20.2,
+          "female_speaking_time": 9.76,
+          "female_on_screen_time": 9.72,
+          "male_on_screen_time": 38.96,
+          "male_and_female_on_screen_time": 5.66,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 31000000,
+          "year": 2014
+      }, {
+          "name": "GIVER, THE",
+          "male_speaking_time": 28.44,
+          "female_speaking_time": 12.81,
+          "female_on_screen_time": 14.05,
+          "male_on_screen_time": 27.51,
+          "male_and_female_on_screen_time": 5.52,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 45000000,
+          "year": 2014
+      }, {
+          "name": "GOD'S NOT DEAD",
+          "male_speaking_time": 31.24,
+          "female_speaking_time": 10.44,
+          "female_on_screen_time": 15.94,
+          "male_on_screen_time": 45.2,
+          "male_and_female_on_screen_time": 8.36,
+          "ratings": "PG",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 61000000,
+          "year": 2014
+      }, {
+          "name": "GONE GIRL",
+          "male_speaking_time": 29.41,
+          "female_speaking_time": 23.49,
+          "female_on_screen_time": 15.93,
+          "male_on_screen_time": 27,
+          "male_and_female_on_screen_time": 6.69,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 168000000,
+          "year": 2014
+      }, {
+          "name": "GRAND BUDAPEST HOTEL, THE",
+          "male_speaking_time": 43.11,
+          "female_speaking_time": 4.38,
+          "female_on_screen_time": 2.85,
+          "male_on_screen_time": 46.71,
+          "male_and_female_on_screen_time": 4.12,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 59000000,
+          "year": 2014
+      }, {
+          "name": "HAUNTED HOUSE 2",
+          "male_speaking_time": 28.34,
+          "female_speaking_time": 29.16,
+          "female_on_screen_time": 10.06,
+          "male_on_screen_time": 33.66,
+          "male_and_female_on_screen_time": 9.58,
+          "ratings": "R",
+          "genre": "Horror",
+          "lead_type": "Male Lead",
+          "gross_revenue": 17000000,
+          "year": 2014
+      }, {
+          "name": "HEAVEN IS FOR REAL",
+          "male_speaking_time": 23.52,
+          "female_speaking_time": 14.49,
+          "female_on_screen_time": 17.91,
+          "male_on_screen_time": 24.42,
+          "male_and_female_on_screen_time": 10.94,
+          "ratings": "PG",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 91000000,
+          "year": 2014
+      }, {
+          "name": "HERCULES (2014)",
+          "male_speaking_time": 22.11,
+          "female_speaking_time": 8.07,
+          "female_on_screen_time": 6.29,
+          "male_on_screen_time": 29.79,
+          "male_and_female_on_screen_time": 2.52,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 73000000,
+          "year": 2014
+      }, {
+          "name": "HOBBIT: THE BATTLE OF THE FIVE ARMIES, THE",
+          "male_speaking_time": 39.01,
+          "female_speaking_time": 6.41,
+          "female_on_screen_time": 5.13,
+          "male_on_screen_time": 27.03,
+          "male_and_female_on_screen_time": 1.99,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 255000000,
+          "year": 2014
+      }, {
+          "name": "HORRIBLE BOSSES 2",
+          "male_speaking_time": 55.35,
+          "female_speaking_time": 23.38,
+          "female_on_screen_time": 4.09,
+          "male_on_screen_time": 64.14,
+          "male_and_female_on_screen_time": 3.66,
+          "ratings": "R",
+          "genre": "Comedy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 54000000,
+          "year": 2014
+      }, {
+          "name": "HUNDRED-FOOT JOURNEY, THE",
+          "male_speaking_time": 21.47,
+          "female_speaking_time": 13.22,
+          "female_on_screen_time": 13.61,
+          "male_on_screen_time": 30.7,
+          "male_and_female_on_screen_time": 6.18,
+          "ratings": "PG",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 54000000,
+          "year": 2014
+      }, {
+          "name": "HUNGER GAMES: MOCKINGJAY PART 1, THE",
+          "male_speaking_time": 18.06,
+          "female_speaking_time": 13.14,
+          "female_on_screen_time": 23.85,
+          "male_on_screen_time": 16.87,
+          "male_and_female_on_screen_time": 5.2,
+          "ratings": "PG-13",
+          "genre": "Science Fiction",
+          "lead_type": "Female Lead",
+          "gross_revenue": 337000000,
+          "year": 2014
+      }, {
+          "name": "I, FRANKENSTEIN",
+          "male_speaking_time": 19.85,
+          "female_speaking_time": 10.04,
+          "female_on_screen_time": 10.03,
+          "male_on_screen_time": 19.33,
+          "male_and_female_on_screen_time": 2.55,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 19000000,
+          "year": 2014
+      }, {
+          "name": "IF I STAY",
+          "male_speaking_time": 15.45,
+          "female_speaking_time": 19.39,
+          "female_on_screen_time": 36.54,
+          "male_on_screen_time": 16.1,
+          "male_and_female_on_screen_time": 8.99,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Female Lead",
+          "gross_revenue": 50000000,
+          "year": 2014
+      }, {
+          "name": "IMITATION GAME, THE",
+          "male_speaking_time": 31.44,
+          "female_speaking_time": 7.86,
+          "female_on_screen_time": 10.57,
+          "male_on_screen_time": 39.63,
+          "male_and_female_on_screen_time": 3.98,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 91000000,
+          "year": 2014
+      }, {
+          "name": "INTERSTELLAR",
+          "male_speaking_time": 58.09,
+          "female_speaking_time": 15.52,
+          "female_on_screen_time": 11.86,
+          "male_on_screen_time": 26.93,
+          "male_and_female_on_screen_time": 3.26,
+          "ratings": "PG-13",
+          "genre": "Science Fiction",
+          "lead_type": "Male Lead",
+          "gross_revenue": 188000000,
+          "year": 2014
+      }, {
+          "name": "INTO THE STORM",
+          "male_speaking_time": 27.42,
+          "female_speaking_time": 12.49,
+          "female_on_screen_time": 11.01,
+          "male_on_screen_time": 24.57,
+          "male_and_female_on_screen_time": 3.4,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 48000000,
+          "year": 2014
+      }, {
+          "name": "INTO THE WOODS",
+          "male_speaking_time": 13.52,
+          "female_speaking_time": 27.9,
+          "female_on_screen_time": 30.51,
+          "male_on_screen_time": 19.6,
+          "male_and_female_on_screen_time": 6.03,
+          "ratings": "PG",
+          "genre": "Fantasy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 128000000,
+          "year": 2014
+      }, {
+          "name": "JACK RYAN: SHADOW RECRUIT",
+          "male_speaking_time": 34.01,
+          "female_speaking_time": 7.47,
+          "female_on_screen_time": 6.13,
+          "male_on_screen_time": 38.77,
+          "male_and_female_on_screen_time": 2.73,
+          "ratings": "PG-13",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 51000000,
+          "year": 2014
+      }, {
+          "name": "JERSEY BOYS",
+          "male_speaking_time": 43.05,
+          "female_speaking_time": 18.96,
+          "female_on_screen_time": 6.77,
+          "male_on_screen_time": 58.75,
+          "male_and_female_on_screen_time": 7.86,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 47000000,
+          "year": 2014
+      }, {
+          "name": "JOHN WICK",
+          "male_speaking_time": 16.01,
+          "female_speaking_time": 2.31,
+          "female_on_screen_time": 2.39,
+          "male_on_screen_time": 22.3,
+          "male_and_female_on_screen_time": 0.15,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 43000000,
+          "year": 2014
+      }, {
+          "name": "JUDGE, THE",
+          "male_speaking_time": 35.35,
+          "female_speaking_time": 6.1,
+          "female_on_screen_time": 5.28,
+          "male_on_screen_time": 45.72,
+          "male_and_female_on_screen_time": 4.7,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 47000000,
+          "year": 2014
+      }, {
+          "name": "LAST MATCH, THE (LA PARTIDA)",
+          "male_speaking_time": 22.51,
+          "female_speaking_time": 7.31,
+          "female_on_screen_time": 4.81,
+          "male_on_screen_time": 48.12,
+          "male_and_female_on_screen_time": 5.98,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 20000000,
+          "year": 2014
+      }, {
+          "name": "LEGEND OF HERCULES, THE",
+          "male_speaking_time": 31.23,
+          "female_speaking_time": 6.02,
+          "female_on_screen_time": 6.55,
+          "male_on_screen_time": 25.53,
+          "male_and_female_on_screen_time": 2.2,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 19000000,
+          "year": 2014
+      }, {
+          "name": "LET'S BE COPS",
+          "male_speaking_time": 46.79,
+          "female_speaking_time": 23.93,
+          "female_on_screen_time": 4.29,
+          "male_on_screen_time": 56.96,
+          "male_and_female_on_screen_time": 5.33,
+          "ratings": "R",
+          "genre": "Action/Adventure",
+          "lead_type": "Male Lead",
+          "gross_revenue": 82000000,
+          "year": 2014
+      }, {
+          "name": "LUCY",
+          "male_speaking_time": 38.75,
+          "female_speaking_time": 21.57,
+          "female_on_screen_time": 24.4,
+          "male_on_screen_time": 22.05,
+          "male_and_female_on_screen_time": 3.97,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Female Lead",
+          "gross_revenue": 127000000,
+          "year": 2014
+      }, {
+          "name": "MALEFICENT",
+          "male_speaking_time": 25.76,
+          "female_speaking_time": 21.79,
+          "female_on_screen_time": 32.17,
+          "male_on_screen_time": 7.23,
+          "male_and_female_on_screen_time": 1.75,
+          "ratings": "PG",
+          "genre": "Fantasy",
+          "lead_type": "Female Lead",
+          "gross_revenue": 241000000,
+          "year": 2014
+      }, {
+          "name": "MAZE RUNNER, THE",
+          "male_speaking_time": 21.33,
+          "female_speaking_time": 7.26,
+          "female_on_screen_time": 7.67,
+          "male_on_screen_time": 33.5,
+          "male_and_female_on_screen_time": 6.9,
+          "ratings": "PG-13",
+          "genre": "Science Fiction",
+          "lead_type": "Male Lead",
+          "gross_revenue": 102000000,
+          "year": 2014
+      }, {
+          "name": "MILLION DOLLAR ARM",
+          "male_speaking_time": 37.12,
+          "female_speaking_time": 16.48,
+          "female_on_screen_time": 6.14,
+          "male_on_screen_time": 53.41,
+          "male_and_female_on_screen_time": 5.23,
+          "ratings": "PG",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 36000000,
+          "year": 2014
+      }, {
+          "name": "MILLION WAYS TO DIE IN THE WEST, A",
+          "male_speaking_time": 35.87,
+          "female_speaking_time": 17.92,
+          "female_on_screen_time": 8.89,
+          "male_on_screen_time": 36.74,
+          "male_and_female_on_screen_time": 10.47,
+          "ratings": "R",
+          "genre": "Western",
+          "lead_type": "Male Lead",
+          "gross_revenue": 43000000,
+          "year": 2014
+      }, {
+          "name": "MONUMENTS MEN, THE",
+          "male_speaking_time": 26.95,
+          "female_speaking_time": 4.29,
+          "female_on_screen_time": 6,
+          "male_on_screen_time": 36.79,
+          "male_and_female_on_screen_time": 1.77,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 78000000,
+          "year": 2014
+      }, {
+          "name": "MYSTERY OF HAPPINESS, THE (EL MISTERIO DE LA FELICIDAD)",
+          "male_speaking_time": 21.86,
+          "female_speaking_time": 22.44,
+          "female_on_screen_time": 12.99,
+          "male_on_screen_time": 41.35,
+          "male_and_female_on_screen_time": 5.34,
+          "ratings": "R",
+          "genre": "Romance",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 161000000,
+          "year": 2014
+      }, {
+          "name": "NEED FOR SPEED",
+          "male_speaking_time": 54.66,
+          "female_speaking_time": 8.75,
+          "female_on_screen_time": 6.12,
+          "male_on_screen_time": 28.14,
+          "male_and_female_on_screen_time": 2.46,
+          "ratings": "PG-13",
+          "genre": "Action/Adventure",
+          "lead_type": "Male Lead",
+          "gross_revenue": 44000000,
+          "year": 2014
+      }, {
+          "name": "NEIGHBORS",
+          "male_speaking_time": 42.02,
+          "female_speaking_time": 22.58,
+          "female_on_screen_time": 5.83,
+          "male_on_screen_time": 44.64,
+          "male_and_female_on_screen_time": 15.3,
+          "ratings": "R",
+          "genre": "Comedy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 150000000,
+          "year": 2014
+      }, {
+          "name": "NIGHT AT THE MUSEUM: SECRET OF THE TOMB",
+          "male_speaking_time": 32.06,
+          "female_speaking_time": 8.11,
+          "female_on_screen_time": 5.18,
+          "male_on_screen_time": 45.51,
+          "male_and_female_on_screen_time": 7.5,
+          "ratings": "PG",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 114000000,
+          "year": 2014
+      }, {
+          "name": "NIGHTCRAWLER",
+          "male_speaking_time": 30.29,
+          "female_speaking_time": 12.02,
+          "female_on_screen_time": 6.92,
+          "male_on_screen_time": 38.39,
+          "male_and_female_on_screen_time": 2.43,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 32000000,
+          "year": 2014
+      }, {
+          "name": "NO GOOD DEED",
+          "male_speaking_time": 23.59,
+          "female_speaking_time": 18.47,
+          "female_on_screen_time": 19.74,
+          "male_on_screen_time": 21.75,
+          "male_and_female_on_screen_time": 1.53,
+          "ratings": "PG-13",
+          "genre": "Thriller",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 53000000,
+          "year": 2014
+      }, {
+          "name": "NOAH",
+          "male_speaking_time": 41.56,
+          "female_speaking_time": 7.52,
+          "female_on_screen_time": 6.88,
+          "male_on_screen_time": 34.5,
+          "male_and_female_on_screen_time": 1.43,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 101000000,
+          "year": 2014
+      }, {
+          "name": "NON-STOP",
+          "male_speaking_time": 27.67,
+          "female_speaking_time": 7.4,
+          "female_on_screen_time": 11.44,
+          "male_on_screen_time": 46.68,
+          "male_and_female_on_screen_time": 5.4,
+          "ratings": "PG-13",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 92000000,
+          "year": 2014
+      }, {
+          "name": "NOVEMBER MAN, THE",
+          "male_speaking_time": 18.76,
+          "female_speaking_time": 6.58,
+          "female_on_screen_time": 14.66,
+          "male_on_screen_time": 35,
+          "male_and_female_on_screen_time": 4.26,
+          "ratings": "R",
+          "genre": "Thriller",
+          "lead_type": "Male Lead",
+          "gross_revenue": 25000000,
+          "year": 2014
+      }, {
+          "name": "OCULUS",
+          "male_speaking_time": 40.09,
+          "female_speaking_time": 20.65,
+          "female_on_screen_time": 24.56,
+          "male_on_screen_time": 19.86,
+          "male_and_female_on_screen_time": 2.65,
+          "ratings": "R",
+          "genre": "Mystery",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 28000000,
+          "year": 2014
+      }, {
+          "name": "OTHER WOMAN, THE",
+          "male_speaking_time": 11.23,
+          "female_speaking_time": 40.58,
+          "female_on_screen_time": 41.12,
+          "male_on_screen_time": 16.02,
+          "male_and_female_on_screen_time": 7.88,
+          "ratings": "PG-13",
+          "genre": "Comedy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 84000000,
+          "year": 2014
+      }, {
+          "name": "OUIJA",
+          "male_speaking_time": 6.57,
+          "female_speaking_time": 14.79,
+          "female_on_screen_time": 30.69,
+          "male_on_screen_time": 10.08,
+          "male_and_female_on_screen_time": 4.77,
+          "ratings": "PG-13",
+          "genre": "Thriller",
+          "lead_type": "Female Lead",
+          "gross_revenue": 51000000,
+          "year": 2014
+      }, {
+          "name": "PARANORMAL ACTIVITY: THE MARKED ONES",
+          "male_speaking_time": 23.3,
+          "female_speaking_time": 12.27,
+          "female_on_screen_time": 9.57,
+          "male_on_screen_time": 16.78,
+          "male_and_female_on_screen_time": 7.62,
+          "ratings": "R",
+          "genre": "Horror",
+          "lead_type": "Male Lead",
+          "gross_revenue": 32000000,
+          "year": 2014
+      }, {
+          "name": "POMPEII",
+          "male_speaking_time": 11.06,
+          "female_speaking_time": 4.26,
+          "female_on_screen_time": 11.15,
+          "male_on_screen_time": 25.66,
+          "male_and_female_on_screen_time": 4.78,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 23000000,
+          "year": 2014
+      }, {
+          "name": "PURGE: ANARCHY, THE",
+          "male_speaking_time": 40.36,
+          "female_speaking_time": 16.1,
+          "female_on_screen_time": 18.87,
+          "male_on_screen_time": 17.97,
+          "male_and_female_on_screen_time": 3.48,
+          "ratings": "R",
+          "genre": "Horror",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 72000000,
+          "year": 2014
+      }, {
+          "name": "RIDE ALONG",
+          "male_speaking_time": 36.66,
+          "female_speaking_time": 24.08,
+          "female_on_screen_time": 3.66,
+          "male_on_screen_time": 54.75,
+          "male_and_female_on_screen_time": 2.17,
+          "ratings": "PG-13",
+          "genre": "Comedy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 134000000,
+          "year": 2014
+      }, {
+          "name": "SELMA",
+          "male_speaking_time": 36.41,
+          "female_speaking_time": 7.11,
+          "female_on_screen_time": 4.87,
+          "male_on_screen_time": 32.9,
+          "male_and_female_on_screen_time": 5.43,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 52000000,
+          "year": 2014
+      }, {
+          "name": "SEX TAPE",
+          "male_speaking_time": 25.3,
+          "female_speaking_time": 35.73,
+          "female_on_screen_time": 23.16,
+          "male_on_screen_time": 40,
+          "male_and_female_on_screen_time": 14.73,
+          "ratings": "R",
+          "genre": "Comedy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 39000000,
+          "year": 2014
+      }, {
+          "name": "SINGLE MOMS CLUB, THE",
+          "male_speaking_time": 18.92,
+          "female_speaking_time": 37.8,
+          "female_on_screen_time": 53.79,
+          "male_on_screen_time": 16.68,
+          "male_and_female_on_screen_time": 7.29,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 16000000,
+          "year": 2014
+      }, {
+          "name": "SON OF GOD",
+          "male_speaking_time": 14.12,
+          "female_speaking_time": 1.47,
+          "female_on_screen_time": 6.48,
+          "male_on_screen_time": 32.73,
+          "male_and_female_on_screen_time": 5.28,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 60000000,
+          "year": 2014
+      }, {
+          "name": "ST. VINCENT",
+          "male_speaking_time": 24.63,
+          "female_speaking_time": 23.99,
+          "female_on_screen_time": 22.78,
+          "male_on_screen_time": 26.95,
+          "male_and_female_on_screen_time": 5.17,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 44000000,
+          "year": 2014
+      }, {
+          "name": "STEP UP ALL IN",
+          "male_speaking_time": 19.41,
+          "female_speaking_time": 12.75,
+          "female_on_screen_time": 14.83,
+          "male_on_screen_time": 25.5,
+          "male_and_female_on_screen_time": 16.9,
+          "ratings": "PG-13",
+          "genre": "Romance",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 15000000,
+          "year": 2014
+      }, {
+          "name": "TAMMY",
+          "male_speaking_time": 16.23,
+          "female_speaking_time": 43.11,
+          "female_on_screen_time": 39.45,
+          "male_on_screen_time": 15.38,
+          "male_and_female_on_screen_time": 6.39,
+          "ratings": "R",
+          "genre": "Comedy",
+          "lead_type": "Female Lead",
+          "gross_revenue": 85000000,
+          "year": 2014
+      }, {
+          "name": "THAT AWKWARD MOMENT",
+          "male_speaking_time": 35.84,
+          "female_speaking_time": 16.91,
+          "female_on_screen_time": 17.75,
+          "male_on_screen_time": 46.04,
+          "male_and_female_on_screen_time": 12.88,
+          "ratings": "R",
+          "genre": "Romance",
+          "lead_type": "Male Lead",
+          "gross_revenue": 26000000,
+          "year": 2014
+      }, {
+          "name": "THEORY OF EVERYTHING, THE",
+          "male_speaking_time": 17.1,
+          "female_speaking_time": 8.42,
+          "female_on_screen_time": 23.52,
+          "male_on_screen_time": 19.88,
+          "male_and_female_on_screen_time": 4.85,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 36000000,
+          "year": 2014
+      }, {
+          "name": "THINK LIKE A MAN TOO",
+          "male_speaking_time": 30.89,
+          "female_speaking_time": 32.5,
+          "female_on_screen_time": 20.97,
+          "male_on_screen_time": 45.27,
+          "male_and_female_on_screen_time": 9.15,
+          "ratings": "PG-13",
+          "genre": "Comedy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 65000000,
+          "year": 2014
+      }, {
+          "name": "THIS IS WHERE I LEAVE YOU",
+          "male_speaking_time": 36.44,
+          "female_speaking_time": 26.35,
+          "female_on_screen_time": 18.02,
+          "male_on_screen_time": 38.26,
+          "male_and_female_on_screen_time": 12.18,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 34000000,
+          "year": 2014
+      }, {
+          "name": "TOP FIVE",
+          "male_speaking_time": 29.83,
+          "female_speaking_time": 29.47,
+          "female_on_screen_time": 13.71,
+          "male_on_screen_time": 34.65,
+          "male_and_female_on_screen_time": 11.15,
+          "ratings": "R",
+          "genre": "Comedy",
+          "lead_type": "Male Lead",
+          "gross_revenue": 25000000,
+          "year": 2014
+      }, {
+          "name": "TRANSCENDENCE",
+          "male_speaking_time": 22.26,
+          "female_speaking_time": 6.94,
+          "female_on_screen_time": 14.02,
+          "male_on_screen_time": 23.85,
+          "male_and_female_on_screen_time": 2.35,
+          "ratings": "PG-13",
+          "genre": "Thriller",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 23000000,
+          "year": 2014
+      }, {
+          "name": "UNBROKEN",
+          "male_speaking_time": 14.82,
+          "female_speaking_time": 3.29,
+          "female_on_screen_time": 2.08,
+          "male_on_screen_time": 39.64,
+          "male_and_female_on_screen_time": 3.67,
+          "ratings": "PG-13",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 116000000,
+          "year": 2014
+      }, {
+          "name": "WHEN THE GAME STANDS TALL",
+          "male_speaking_time": 33.57,
+          "female_speaking_time": 7.06,
+          "female_on_screen_time": 5.51,
+          "male_on_screen_time": 32.79,
+          "male_and_female_on_screen_time": 3.67,
+          "ratings": "PG",
+          "genre": "Drama",
+          "lead_type": "Male Lead",
+          "gross_revenue": 30000000,
+          "year": 2014
+      }, {
+          "name": "WILD",
+          "male_speaking_time": 31.56,
+          "female_speaking_time": 25.99,
+          "female_on_screen_time": 25.44,
+          "male_on_screen_time": 16.53,
+          "male_and_female_on_screen_time": 1.27,
+          "ratings": "R",
+          "genre": "Drama",
+          "lead_type": "Female Lead",
+          "gross_revenue": 38000000,
+          "year": 2014
+      }, {
+          "name": "X-MEN: DAYS OF FUTURE PAST",
+          "male_speaking_time": 30.37,
+          "female_speaking_time": 4.96,
+          "female_on_screen_time": 4.1,
+          "male_on_screen_time": 31.51,
+          "male_and_female_on_screen_time": 1.4,
+          "ratings": "PG-13",
+          "genre": "Fantasy",
+          "lead_type": "MF Co-Lead",
+          "gross_revenue": 234000000,
+          "year": 2014
+      }
+
+  ]
